@@ -52,8 +52,7 @@ olist-ecommerce-bi-analysis/
     └── measures.md
 ```
 ## Data Model
-
-
+![Data model](Screenshot%20%284287%29.png)
 ## DAX Measures
 # DAX Documentation
 
